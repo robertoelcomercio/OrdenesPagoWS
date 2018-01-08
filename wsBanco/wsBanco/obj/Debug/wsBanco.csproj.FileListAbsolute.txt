@@ -1,0 +1,6 @@
+D:\Personal Rob\EXAMEN EL COMERCIO\webService\wsBanco\wsBanco\obj\Debug\wsBanco.csprojResolveAssemblyReference.cache
+D:\Personal Rob\EXAMEN EL COMERCIO\webService\wsBanco\wsBanco\bin\wsBanco.dll.config
+D:\Personal Rob\EXAMEN EL COMERCIO\webService\wsBanco\wsBanco\bin\wsBanco.dll
+D:\Personal Rob\EXAMEN EL COMERCIO\webService\wsBanco\wsBanco\bin\wsBanco.pdb
+D:\Personal Rob\EXAMEN EL COMERCIO\webService\wsBanco\wsBanco\obj\Debug\wsBanco.dll
+D:\Personal Rob\EXAMEN EL COMERCIO\webService\wsBanco\wsBanco\obj\Debug\wsBanco.pdb
